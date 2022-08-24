@@ -8,3 +8,6 @@
 - Nerd, fissurado em RPG
 
 ### <a href="https://enyus.github.io/">Vê meu Porfolio aí, vai</a>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c%C3%A1ssio-sandrigo-santini-929451204/)](https://www.linkedin.com/in/c%C3%A1ssio-sandrigo-santini-929451204/)
